@@ -673,8 +673,7 @@
                 "order_date": "2024-11-24 10:00:00",
                 "order_status": 1,
                 "notes": "Urgent order",
-                "product_details": "[{\"product_code\": \"SP001\", \"quantity\": 10}]",
-                "printing_company_id": null
+                "product_details": "[{\"product_code\": \"SP001\", \"quantity\": 10}]"
             },
             {
                 "order_id": 2,
@@ -685,8 +684,7 @@
                 "order_date": "2024-11-25 14:00:00",
                 "order_status": 1,
                 "notes": "Standard delivery",
-                "product_details": "[{\"product_code\": \"SP001\", \"quantity\": 20}]",
-                "printing_company_id": 1
+                "product_details": "[{\"product_code\": \"SP001\", \"quantity\": 20}]"
             }
         ]
     }
